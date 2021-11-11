@@ -6,7 +6,7 @@ Time Series Forecasting.
 `Additive` Model ( If Seasonality is `constant` ) : `Observation` = `Trend` + `Seasonality` + `Error`
 
 ```
-Forecasting Sales with Trend, Seasonality and Error
+Forecasting Sales with Trend, Seasonality and Error :
 
 Sales = Trend (Business Growth) + Seasonality (Weather) + Error (Theft / Calamity)
 ```
