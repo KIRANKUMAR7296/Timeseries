@@ -25,7 +25,7 @@ x : Independent Variable (Past)
 <table>
   <tr><th colspan=3>Time Series</th></tr>
   <tr><th colspan=2>Systematic Component</th><th colspan=1>Irregular Component</th></tr>
-  <tr><td>Trend</td><td>Seasonality</td><td></td></tr>
+  <tr><td>Trend</td><td>Seasonality</td><td>Unpredicted calamity (e.g. COVID Pandemic)</td></tr>
 </table>
  
 ### Decomposition Model
