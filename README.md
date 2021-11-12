@@ -27,9 +27,17 @@ x : Independent Variable (Past)
   <tr><th colspan=2>Systematic Component</th><th colspan=1>Irregular Component</th></tr>
   <tr><td>Trend</td><td>Seasonality</td><td>Unpredicted calamity</td></tr>
   <tr><td>Long term (Ups and downs)</td><td>Regular pattern</td><td>COVID pandemic or any uncertain natural calamity</td></tr>
-</table>
+</table>  
+
+### Decomposition of Time Series 
+
+Breaking of Time Series data into `trend`, `seasonality` and `irregular` components.
+
+We have to find this three components in a given Time Series data.
  
 ### Decomposition Model
+
+There are two types of decomposition models.
 
 `Additive` Model ( If Seasonality is `constant` ) : `Observation` = `Trend` + `Seasonality` + `Error`
 
