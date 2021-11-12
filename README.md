@@ -23,7 +23,7 @@ x : Independent Variable (Past)
 - No data should be missing in the given time intervals.
 
 <table>
-  <tr><th colspan=2>Time Series</th></tr>
+  <tr><th colspan=3>Time Series</th></tr>
   <tr><th colspan=2>Systematic Component</th><th>Irregular Component</th></tr>
   <tr><td>Trend</td><td>Seasonality</td><td></td><td></td></tr>
 </table>
