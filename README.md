@@ -24,7 +24,7 @@ x : Independent Variable (Past)
 
 <table>
   <tr><th colspan=3>Time Series</th></tr>
-  <tr><th colspan=2>Systematic Component</th><th colspan=1>Irregular Component</th></tr>
+  <tr><th colspan=2>Systematic Component</th><th colspan=1>Irregular Component (Error)</th></tr>
   <tr><td>Trend</td><td>Seasonality</td><td>Unpredicted calamity</td></tr>
   <tr><td>Long term (Ups and downs)</td><td>Regular pattern</td><td>COVID pandemic or any uncertain natural calamity</td></tr>
 </table>  
