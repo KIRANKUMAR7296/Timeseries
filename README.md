@@ -48,3 +48,7 @@ Sales = Trend (Business Growth) + Seasonality (Weather) + Error (Theft / Calamit
 ```
 
 `Multiplicative` Model ( If Seasonality is `changing` ) : `Observation` = `Trend` * `Seasonality` * `Error`
+
+### Statsmodels 
+
+Python library that provides `classes` and `functions` to perform statistical tests on time series data.
