@@ -1,4 +1,4 @@
-# Timeseries 🕐
+# Time Series 🕐
 
 `Time Series` forecasting is an application of `Data Science`
 
