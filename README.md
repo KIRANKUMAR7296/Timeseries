@@ -1,6 +1,4 @@
 # Time Series 🕐
-
-- **Time Series forecasting** is an application of Data Science.
 - Every business operates under risk (based on market conditions) and uncertainty (due to some natural calamity)
 - Forecasting helps us to assess these risks, and based on that the budgets can be managed.
 - Time series involves analyzing data points collected to identify patterns and trends for predictions.
