@@ -3,12 +3,13 @@
 - **Time Series forecasting** is an application of Data Science.
 - Every business operates under risk (based on market conditions) and uncertainty (due to some natural calamity)
 - Forecasting helps us to assess these risks, and based on that the budgets can be managed.
+- Time series involves analyzing data points collected to identify patterns and trends for predictions.
 
-In simple time we can understand with the following equation:
+In simple times we can understand with the following equation:
 ```
 y = f(x)
-y : Dependent Variable (Future)
-x : Independent Variable (Past)
+y: Dependent Variable (Future)
+x: Independent Variable (Past)
 ```
 
 ### Properties of Time Series data.
@@ -22,6 +23,12 @@ x : Independent Variable (Past)
   <tr><td>Trend</td><td>Seasonality</td><td>Unpredicted calamity (Error)</td></tr>
   <tr><td>Long term (Ups and downs)</td><td>Regular pattern</td><td>COVID pandemic or any uncertain natural calamity</td></tr>
 </table>  
+
+### Data Visualization
+- Create plots (line charts, histograms, scatter plots) to identify trends, seasonality, and other patterns.
+
+### Stationarity Check 
+- A time series is stationary if its statistical properties (mean, median, variance, std, skewness, autocorrelation) remain constant over time.
 
 ### Decomposition of Time Series 
 - Breaking of Time Series data into trend, seasonality and irregular components.
@@ -39,4 +46,4 @@ Sales = Trend (Business Growth) + Seasonality (Weather) + Error (Theft / Calamit
 ```
 
 ### Statsmodels 
-- Python library that provides classes and functions to perform statistical tests on time series data.
+- Python library that provides classes and functions for statistical tests on time series data.
